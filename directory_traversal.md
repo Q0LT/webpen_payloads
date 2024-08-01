@@ -1,4 +1,5 @@
 # Payloads
+```
 ../
 ..\
 ..\/
@@ -106,7 +107,7 @@ c:/system volume information/wpsettings.dat
 C:/Windows/CSC/v2.0.6/pq
 C:/Windows/CSC/v2.0.6/sm
 C:/$Recycle.Bin/S-1-5-18/desktop.ini
-
+```
 # Resources
 https://book.hacktricks.xyz/pentesting-web/file-inclusion
 https://www.thehacker.recipes/web/inputs/directory-traversal
